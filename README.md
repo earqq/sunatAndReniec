@@ -1,6 +1,6 @@
-# My API
+# SunatAndReniec
 
-This API provides basic functionality for managing users.
+This API provides basic functionality for making request to get a person and company Data
 
 ## Getting Started
 
